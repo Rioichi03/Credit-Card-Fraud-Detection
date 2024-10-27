@@ -6,3 +6,5 @@
 • Evaluated model performance using various metrics, including accuracy, precision, recall, F1 score, and log loss, ensuring a comprehensive assessment of effectiveness in real-world scenarios.
 
 • Conducted thorough exploratory data analysis (EDA) to uncover insights and patterns in the dataset, guiding the modeling approach and feature selection.
+
+### You can download and use the dataset "creditcard.csv" from Kaggle and use with this notebook.
